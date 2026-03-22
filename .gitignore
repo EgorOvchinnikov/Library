@@ -1,0 +1,13 @@
+*.exe
+*.dcu
+*.bin
+*.dll
+*.bpl
+*.dcp
+*.dproj.local
+*.identcache
+*.tvsconfig
+Win32/
+Win64/
+Debug/
+Release/
